@@ -456,7 +456,7 @@ select>option:focus{
     height: auto;
 }
 .answer a{
-    color:rgba(81, 74, 74, 1);
+    color:rgb(207, 186, 63);
 }
 #colors{
     display: flex;
