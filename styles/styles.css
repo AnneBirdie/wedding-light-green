@@ -62,7 +62,7 @@ a{
 
 /*block 1.......................................................................................................................*/
 .block_1{
-    background-image: url(/images/block_1_bg.png);
+    background-image: url(...images/block_1_bg.png);
 }
 .block_1_top{
     margin-top: 20%;
@@ -149,7 +149,7 @@ a{
 
 /*block 2.......................................................................................................................*/
 .block_2_background{
-    background-image: url(/images/block_2_bg.png);
+    background-image: url(...images/block_2_bg.png);
     background-position: top;
     background-repeat: no-repeat;
     background-size: cover;
@@ -207,7 +207,7 @@ a{
 
   /*block 3.......................................................................................................................*/
 .block_3{
-    background-image: url(/images/block_3_bg.png);
+    background-image: url(...images/block_3_bg.png);
     background-position: bottom;
     background-repeat: no-repeat;
     background-size: cover;
@@ -434,7 +434,7 @@ select>option:focus{
 
     /*block 4.......................................................................................................................*/
     .block_4{
-        background-image: url(/images/block_4_bg.png);
+        background-image: url(...images/block_4_bg.png);
         background-repeat: no-repeat;
         block-size: cover;
         display: flex;
